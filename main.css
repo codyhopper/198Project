@@ -1,0 +1,9 @@
+details > summary::-webkit-details-marker {
+  color: lightgray;
+  font-size: 0rem;
+}
+
+summary {
+  font-size: 2em;
+  font-weight: bold;
+}
